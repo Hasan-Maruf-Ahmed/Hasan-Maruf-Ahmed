@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Maruf</h1>
 <h3 align="left">A passionate 💻 Full stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-maruf-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-maruf-ahmed" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hasan-maruf-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-maruf-ahmed" /> </p>
 
 - 🔭 I’m currently working on **Mern projects.**
 
