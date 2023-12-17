@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi there 👋, I'm Maruf&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 # Hi there 👋, I'm Maruf
 A passionate 💻 Full stack developer from Bangladesh
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hasan-Maruf-Ahmed/count.svg" />
+</p>
 
 
 # 💫 About Me:
