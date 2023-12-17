@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Maruf
-A passionate 💻 Full stack developer from Bangladesh
+💻 Full stack developer from Bangladesh
 
 <p align="center"> 
   Visitor count<br>
@@ -9,6 +9,7 @@ A passionate 💻 Full stack developer from Bangladesh
 
 ## 💫 About Me:
 <p align="left" >🔭 I’m currently working on Mern projects.<br>🌱 I’m currently learning problem solving, Full stack development and design.<br>🎓 I'm currently a 3rd year Software Engineer Student.<br>🤝 I’m looking for help with other aspects of web development.<br>📫 How to reach me **hasanmarufahmedfahim@gmail.com**<br>⚡ Fun fact When I'm not coding, you can find me immersed in handcraft projects or strategizing my next move in the gaming world.<br></p>
+<br>
 <p align="left" > <img  width="450" src="https://github.com/Hasan-Maruf-Ahmed/Hasan-Maruf-Ahmed/blob/main/coding.gif" alt="hasan-maruf-ahmed" /> </p>
 
 
