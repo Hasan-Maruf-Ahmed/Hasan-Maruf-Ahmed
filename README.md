@@ -31,6 +31,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hasan-maruf-ahmed-fahim-431408203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan maruf ahmed fahim" height="30" width="40" /></a>
 <a href="https://www.facebook.com/hasanmarufahmed.fahim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasan maruf ahmed fahim" height="30" width="40" /></a>
-<a href="https://instagram.com/hasan maruf ahmed fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasan maruf ahmed fahim" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hasanmarufahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasan maruf ahmed fahim" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Hasan_Maruf_Ahmed_Fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasan_maruf_ahmed_fahim" height="30" width="40" /></a>
 </p>
