@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-maruf-ahmed" alt="hasan-maruf-ahmed" /></a> </p>
 
+- 🔭 I’m currently working on **Mern projects.**
+
+- 🌱 I’m currently **learning problem solving, Full stack development and design.**
+
+- 🎓 I'm currently **a 3rd year Software Engineer Student.**
+
+- 🤝 I’m looking for help with **other aspects of web development.**
+
 - 📫 How to reach me **hasanmarufahmedfahim@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, you can find me immersed in handcraft projects or strategizing my next move in the gaming world.**
