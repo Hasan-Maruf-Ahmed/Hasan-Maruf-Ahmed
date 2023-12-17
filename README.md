@@ -6,7 +6,7 @@ A passionate 💻 Full stack developer from Bangladesh
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hasanmarufahmed.fahim/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hasanmarufahmed/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-maruf-ahmed-fahim-431408203/) [![CodeForces](https://img.shields.io/badge/CodeForces-0C356A?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Hasan_Maruf_Ahmed_Fahim) [!![LeetCode](https://img.shields.io/badge/LeetCode-E36414?logo=leetcode&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hasanmarufahmed.fahim/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hasanmarufahmed/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-maruf-ahmed-fahim-431408203/) [![CodeForces](https://img.shields.io/badge/CodeForces-0C356A?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Hasan_Maruf_Ahmed_Fahim) [![LeetCode](https://img.shields.io/badge/LeetCode-E36414?logo=leetcode&logoColor=white)
 ](https://leetcode.com/Hasan_Maruf_Ahmed/)
 
 # 💻 Tech Stack:
