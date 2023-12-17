@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Maruf
 A passionate 💻 Full stack developer from Bangladesh
+[![](https://visitcount.itsvg.in/api?id=Hasan-Maruf-Ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 # 💫 About Me:
 🔭 I’m currently working on Mern projects.<br>🌱 I’m currently learning problem solving, Full stack development and design.<br>🎓 I'm currently a 3rd year Software Engineer Student.<br>🤝 I’m looking for help with other aspects of web development.<br>📫 How to reach me **hasanmarufahmedfahim@gmail.com**<br>⚡ Fun fact When I'm not coding, you can find me immersed in handcraft projects or strategizing my next move in the gaming world.<br>
@@ -26,6 +28,5 @@ A passionate 💻 Full stack developer from Bangladesh
 ![](https://github-contributor-stats.vercel.app/api?username=Hasan-Maruf-Ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hasan-Maruf-Ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
