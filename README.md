@@ -21,9 +21,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasan-maruf-ahmed&show_icons=true&locale=en&layout=compact" alt="hasan-maruf-ahmed" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hasan-maruf-ahmed&show_icons=true&locale=en" alt="hasan-maruf-ahmed" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=hasan-maruf-ahmed&show_icons=true&locale=en" alt="hasan-maruf-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-maruf-ahmed&" alt="hasan-maruf-ahmed" /></p>
+<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-maruf-ahmed&" alt="hasan-maruf-ahmed" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-maruf-ahmed" alt="hasan-maruf-ahmed" /></a> </p>
 
