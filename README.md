@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-maruf-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-maruf-ahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-maruf-ahmed" alt="hasan-maruf-ahmed" /></a> </p>
-
 - 🔭 I’m currently working on **Mern projects.**
 
 - 🌱 I’m currently **learning problem solving, Full stack development and design.**
@@ -26,6 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasan-maruf-ahmed&show_icons=true&locale=en" alt="hasan-maruf-ahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-maruf-ahmed&" alt="hasan-maruf-ahmed" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-maruf-ahmed" alt="hasan-maruf-ahmed" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
